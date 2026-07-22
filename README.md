@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Royal Sachan — Portfolio
 
 A personal developer portfolio built with Next.js (App Router). Single-page site with a sticky nav, scroll-reveal animations, light/dark theming, and a data-driven content layer — update what you know, what you've built, and what you've done from a handful of files in `data/`, no touching component markup required.
