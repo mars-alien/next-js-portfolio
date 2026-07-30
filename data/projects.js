@@ -15,15 +15,15 @@ export const PROJECTS = [
     live:   "https://paper-trail-sigma-ten.vercel.app",
   },
   {
-    name:       "Sangam",
+    name:       "Nexus",
     subtitle:   "Event Companion Platform",
     color:      "#0d9488",
     description:
       "Full-stack event-discovery platform built with Spring Boot, featuring role-based group join approval with async concurrent request handling. Location-based search uses PostGIS geospatial indexing for distance-ranked results in under 100ms across 10,000+ indexed locations, backed by a Redis-powered automated waitlist queue and JWT refresh-token rotation — deployed via Docker on Railway with GitHub Actions CI/CD.",
     overviewImage: "/images/sangam.png",
     tags:   ["Java", "Spring Boot", "PostgreSQL", "Redis", "PostGIS", "React", "Docker"],
-    github: "https://github.com/mars-alien/sangam",
-    live:   "https://sangam123.vercel.app/",
+    github: "https://github.com/mars-alien/nexus",
+    live:   "https://nexus-royal.vercel.app/",
   },
   {
     name:       "EcoRoute",
